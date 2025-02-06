@@ -43,7 +43,7 @@ __Сравнительный анализ и инновационное прим
 + [CJM (Customer Journey Map) пользовательского пути: Подробное описание процесса промо-регистрации новых пользователей с учетом всех точек контакта.](https://drive.google.com/file/d/1SMNLuSctB2lt6Q82xecp3x1uvfhHtWcv/view?usp=sharing)
 + [Техническая документация: Методы для iOS и Android с примерами кода, демонстрирующие легкость интеграции и эффективность работы приложения.](https://github.com/lekontcev-i/Competition-Tg/tree/main/integration%20SDK)
 + [Интеграции с API](https://drive.google.com/file/d/1wQuE7KDIL2ZeQqCXHi6p90kxR8zElsB4/view?usp=sharing)
-+ [Пример сообщения для вовлечения в программу привелегий](https://disk.yandex.ru/i/4UHHVoPk6gWFhQ)
++ [Пример сообщения для вовлечения в программу привелегий](https://drive.google.com/file/d/1hsZhvjoSwMKyAUcgwm1UEGyw_3yR9Ykb/view?usp=sharing)
 + [Сетевая схема и схема движения данных](https://drive.google.com/drive/folders/12uBLU92VFQlVM_NtHyLC_Xd-EgLNhEaO?usp=sharing)
 
 **Инновации и патенты:** Команда проекта имеет патенты на применяемые функции Push в мобильное приложение на основе события подключения к Wi-Fi сетям. А также на алгоритм промо регистрации новых пользователей.
